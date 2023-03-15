@@ -5,4 +5,4 @@ Crouse Project:
       
       COMP 565: individual work
 
-Personal Project: in purpose of practice 
+Personal Project: practice 
