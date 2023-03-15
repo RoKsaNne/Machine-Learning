@@ -1,2 +1,3 @@
-# Reinforcement-Learning
-Crouse Project of COMP579: Reinforcement Learning, the projects are work in group of 2.
+# Machine-Learning
+Crouse Project of COMP551: the projects are work in group of 3.
+Personal Project: in purpose of practice 
